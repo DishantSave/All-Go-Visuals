@@ -1,0 +1,97 @@
+.bg-imgs {
+    background-image: url("imagelogin.jpg");
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    margin-top: -20px;
+    margin-left: -8px;
+    padding: 0;
+    height:100vh;
+    width: 1350px;
+}
+
+.box{
+    border-color: rgb(247, 125, 69);
+    border-width: .25em;
+    border-style: inset;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+}
+
+.box h1{
+    color: white;
+    padding: 10px;
+    margin-left: 35%;
+}
+
+.box h1 span{
+    color: rgb(162, 247, 5);
+    padding: 10px;
+}
+    
+.box1{
+    border-color: rgb(247, 125, 69);
+    border-width: .25em;
+    border-style: inset;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+}
+    
+.box1 h1{
+    color: white;
+    padding: 10px;
+    margin-left: 31%;
+}
+
+.box1 h1 span{
+    color: rgb(162, 247, 5);
+    padding: 10px;
+}
+
+.box .cn{
+    width: 160px;
+    height: 40px;
+    background: rgb(205, 250, 4);
+    border: none;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4 ease;
+}
+
+
+.box .cn a{
+    text-decoration: none;
+    color:rgb(190, 12, 206);
+    transition: 0.3s ease;
+}
+
+.box1 .cn{
+    width: 160px;
+    height: 40px;
+    background: rgb(205, 250, 4);
+    border: none;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4 ease;
+}
+
+
+.box1 .cn a{
+    text-decoration: none;
+    color:rgb(190, 12, 206);
+    transition: 0.3s ease;
+}
+
+.cn:hover{
+    background-color: black;
+}

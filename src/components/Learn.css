@@ -1,0 +1,59 @@
+.bg-image {
+    background-image: url("imagelogin.jpg");
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    margin-top: -100px;
+    margin-left: -8px;
+    padding: 0;
+    height:50vh;
+    width: 1265px;
+ }
+
+.ico{
+    width:150px;
+    float: left;
+    height: 70px;
+}
+
+
+.logo{
+    color:yellowgreen;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 75px;
+}
+
+.box{
+    border-color: rgb(247, 125, 69);
+    border-width: .25em;
+    border-style: inset;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.box h1{
+    color: black;
+    padding: 10px;
+}
+    
+.box1{
+    border-color: black;
+    border-width: .25em;
+    border-style: double;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+    
+.box1 h1{
+    color: black;
+    padding: 10px;
+}
+
+.box1 img{
+    margin-left: 20px;
+}

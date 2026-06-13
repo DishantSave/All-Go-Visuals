@@ -1,0 +1,165 @@
+.bg-img {
+    background-image: url("imagelogin.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    margin-top: -20px;
+    margin-left: -8px;
+    padding: 0;
+    height:100vh;
+    width: 1350vh;
+ }
+
+.navbar{
+    width: 100%;
+    height: 75px;
+    margin: auto;
+}
+
+.ico{
+    width:150px;
+    float: left;
+    height: 70px;
+}
+
+
+.logo{
+    color:yellowgreen;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 5px;
+}
+
+
+.menu{
+    width: 500px;
+    float:left;
+    height: 70px;
+}
+
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+ul li a{
+    text-decoration: none;
+    color: rgb(199, 184, 214);
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.5s ease-in-out;
+}
+
+
+ul li a:hover{
+    color: rgb(94, 30, 85);
+}
+
+
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+
+input[type=search] {
+    font-family: 'Ariel';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    color: white;
+    border: 1px solid orangered;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background: rgb(12, 218, 12);
+    border: 2px solid orangered;
+    margin-top: 0px;
+    color: white;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+}
+
+
+.btn:focus{
+    outline: none;
+}
+
+
+.srch:focus{
+    outline:none;
+}
+
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+}
+
+.content.par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+
+.content h1{
+    font-family: 'Times new Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+
+input[type=submit] {
+    width: 160px;
+    height: 40px;
+    background: rgb(17, 216, 51);
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4 ease;
+}
+
+.cn:hover{
+    background-color: black;
+}
+
+
+.content span{
+    color:aqua;
+    font-size: 60px;
+}

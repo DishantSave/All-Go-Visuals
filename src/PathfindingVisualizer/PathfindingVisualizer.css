@@ -1,0 +1,67 @@
+.heading h1{
+  background-color: rgb(245, 85, 231);
+  color: rgb(0, 0, 0);
+  height: 40px;
+  width: 1200px;
+  margin-top: 5px;
+  margin-left: 27px;
+  padding-left: 50px;
+  border-top-right-radius: 100px;
+  border-top-left-radius: 100px;
+}
+
+.grid-container {
+  margin-left: 25px;
+}
+
+.grid {
+  white-space: pre;
+}
+
+#btn1 {
+  align-items: center;
+  height: 40px;
+  width: 313px;
+  margin-left: 26px;
+  background-color: rgb(245, 85, 231);
+  color: rgb(0, 0, 0);
+  border: solid;
+  border-color: aqua;
+  border-bottom-left-radius: 100px;
+}
+
+#btn2 {
+  align-items: center;
+  height: 40px;
+  width: 313px;
+  margin-left: 0px;
+  background-color: rgb(245, 85, 231);
+  color: rgb(0, 0, 0);
+  border: solid;
+  border-color: aqua;
+  border-bottom-right-radius: 0%;
+}
+
+#btn3 {
+  align-items: center;
+  height: 40px;
+  width: 313px;
+  margin-left: 0px;
+  background-color: rgb(245, 85, 231);
+  color: rgb(0, 0, 0);
+  border: solid;
+  border-color: aqua;
+  border-bottom-right-radius: 0%;
+}
+
+#btn4 {
+  align-items: center;
+  height: 40px;
+  width: 313px;
+  margin-left: 0px;
+  background-color: rgb(245, 85, 231);
+  color: rgb(0, 0, 0);
+  border: solid;
+  border-color: aqua;
+  border-bottom-right-radius: 100px;
+}
